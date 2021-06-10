@@ -8,9 +8,10 @@ chcp 65001
 set /p id="¿Versión americana (U) o europea (E)? "
 If %id%==E (set d=00040000000F1400) ELSE (set d=00040000000F1E00)
 mkdir %d%
-echo %d%
 .\res\ctrtool.exe --romfsdir=%d%\romfs romfsPatched.bin
 
 del romfs.bin
 del romfsPatched.bin
 del contents.000*
+
+pause
