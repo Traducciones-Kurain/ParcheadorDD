@@ -19,4 +19,5 @@
 - Gráficos: Jau_CR
 - Testeo: Zen, franciskirk, WorstAquaPlayer
 - Romhacking: Pache, Locke-92
+- Parcheador: Pache, Kuroser
 - Agradecimientos especiales: ChelseaFantasy y su grupo Wright Translation Agency, grupo de traducción original de este juego
